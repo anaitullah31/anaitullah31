@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="banner.png" alt="GitHub Banner" />
+  <img src="banner.png" width="100% alt="GitHub Banner" />
 </div>
 
 # Hi 👋 I'm Anaitullah
