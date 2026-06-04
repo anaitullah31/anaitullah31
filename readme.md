@@ -24,12 +24,12 @@ I am a **MERN Stack Developer** passionate about building **modern, scalable, an
 
 I specialize in creating **full-stack solutions** using:
 
+- React.js
 - MongoDB
 - Express.js
-- React.js
 - Node.js
 
-I also work with modern technologies like **Next.js, Redux, Prisma, PostgreSQL, Docker, and AWS** to build **production-ready applications**.
+I also work with modern technologies like **Next.js, Redux** to build **production-ready applications**.
 
 💡 My development philosophy focuses on:
 
@@ -46,27 +46,22 @@ I enjoy turning **ideas into real-world digital products** and continuously impr
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next" />
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### DevOps & Cloud
+### Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,firebase" />
-</p>
-
-### Testing
-<p>
-<img src="https://skillicons.dev/icons?i=jest,vitest" />
+<img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### Tools
